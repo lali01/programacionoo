@@ -1,4 +1,4 @@
-package diagrama.de.flujo;
+package diagrama;
 
 import java.util.Scanner;
 
@@ -6,6 +6,7 @@ public class main5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//Excelente trabajo
 
 		System.out.print("Ingrese el número de filas: ");
 		Scanner in = new Scanner(System.in);// TECLADO
