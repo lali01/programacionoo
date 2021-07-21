@@ -19,7 +19,7 @@ public class MainTipoDeDatos {
 		
 		boolean casado = true;
 		
-		char opcionMenu = ´C´;  
+		char opcionMenu = 'C';  
 	}
 
 }
