@@ -1,4 +1,4 @@
-package programacionoo;
+package Git2.src.programacionoo;
 
 public class Gerente {
 
