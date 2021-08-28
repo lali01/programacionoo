@@ -1,6 +1,6 @@
 package tablero.ajedrez;
 
-public class MainTablero {
+public class MainTablero  {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
